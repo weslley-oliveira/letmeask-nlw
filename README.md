@@ -37,9 +37,9 @@ This project was developed using the following technologies:
 - [Sass]()
 - [Firebase]()
 
-<!-- ## 🔥 Preview
+## 🔥 Preview
 
-[![Deploy with Vercel](https://vercel.com/button)](https://moveit-weslley-oliveira.vercel.app/) -->
+[![Deploy with Firebase](https://firebase/button)](https://letmeask-f890b.web.app/)
 
 ## 🚀 Getting started
 
