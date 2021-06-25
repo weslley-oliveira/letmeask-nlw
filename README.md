@@ -39,7 +39,8 @@ This project was developed using the following technologies:
 
 ## 🔥 Preview
 
-<img align="center" alt="Hideki-React" height="30" width="34" src="https://camo.githubusercontent.com/c981b8cae7b76a4e4b24c730e0c1b4e1a04d737ce7fe6f9c833256ffd7ba7a09/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3438302f66697265626173652e706e67" data-canonical-src="https://img.icons8.com/color/480/firebase.png" style="max-width:100%;">[![Deploy with Firebase]](https://letmeask-f890b.web.app/)
+
+<img align="center" alt="Hideki-React" height="30" width="34" src="https://camo.githubusercontent.com/c981b8cae7b76a4e4b24c730e0c1b4e1a04d737ce7fe6f9c833256ffd7ba7a09/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3438302f66697265626173652e706e67" data-canonical-src="https://img.icons8.com/color/480/firebase.png" style="max-width:100%;">[Deploy with Firebase](https://letmeask-f890b.web.app/)
 
 ## 🚀 Getting started
 
