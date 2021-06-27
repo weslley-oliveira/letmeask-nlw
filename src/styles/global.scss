@@ -12,3 +12,15 @@ body {
 body, input, button, textarea {
   font: 400 16px 'Roboto', sans-serif;
 }
+
+@media (max-width: 778px){
+  #page-auth{
+    flex-direction: column;
+    height: 100px;  
+
+    .main-content{
+      height: 1000px;
+      padding-top: 200px;
+    }
+  }
+}
